@@ -1,13 +1,11 @@
 ---
-title: A simple design for Halo
-date: 2019-02-04
-published: true
-tags: [mobile, product design]
-client: Google
-role: Product designer
-link: google.com
-cover_image: /uploads/images/boxed-water-is-better-7mr6Yx-8WLc-unsplash.jpg
+title: A simple design for Halo  fdkgkfdgjkdf
 description: The magic of paint brush and a a little coffee
+date: 2019-02-04T00:00:00.000Z
+published: true
+tags:
+  - mobile
+  - product design
 ---
 
 # Mobile app demo
